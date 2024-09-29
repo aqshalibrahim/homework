@@ -50,9 +50,11 @@ Proyek ini adalah sebuah halaman web sederhana yang terdiri dari dua tab: `Regis
 ## Contoh Tampilan
 
 ### Tab Registrasi
+![image](https://github.com/user-attachments/assets/11514273-d326-4307-995b-d23e2e9ebeab)
 
 
 ### Tab List Pendaftar
+![image](https://github.com/user-attachments/assets/8ae6698c-b0c1-4dda-a098-f0068d8866a9)
 
 
 ## Catatan Pengembangan
