@@ -28,7 +28,7 @@ Proyek ini adalah sebuah halaman web sederhana yang terdiri dari dua tab: `Regis
 
 1. **Clone Repository**:
    ```
-   git clone [https://github.com/aqshalibrahim/homework.git]
+   git clone https://github.com/aqshalibrahim/homework.git
    ```
 2. **Buka File `index.html`** di browser.
 3. **Tab Registrasi**:
